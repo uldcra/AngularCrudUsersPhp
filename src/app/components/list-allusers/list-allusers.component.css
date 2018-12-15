@@ -1,0 +1,12 @@
+input{
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.myWidth{
+    max-width: 400px !important;
+}
+
+.espacio{
+    margin-top: 10px;
+}
